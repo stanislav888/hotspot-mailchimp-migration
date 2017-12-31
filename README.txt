@@ -33,6 +33,3 @@ UPLOAD CODE:
 RUN MIGRATION:
 "php migration.php" - from command line. Of course, must have installed PHP.
 "http://<my-site>.com/hotspotadmin-mailchimp-migration/migration.php" - when you upload solution on WEB hosting. Debug output not nice in that case.
-
-SUPPORT:
-Any isuues please ask - https://www.upwork.com/o/profiles/users/_~017bf438dc32f73001/
